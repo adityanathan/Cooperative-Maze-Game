@@ -1,5 +1,7 @@
 # Cooperative Maze Game
 
+Website: [adityanathan.github.io/projects](https://adityanathan.github.io/projects)
+
 ## Pre-requisites
 - Windows
 
